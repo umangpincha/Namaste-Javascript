@@ -1,2 +1,2 @@
-# Namaste-Javascript
+# Namaste-Javascript 🙏🏻
 Namaste Javascript

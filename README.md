@@ -24,22 +24,3 @@ Deployed and live 👉 [umangttt.netlify.app](https://umangttt.netlify.app/)
 | 🎨 CSS        | Styling and layout + soft shadows  |
 | 🧠 JavaScript | Handles game logic and interaction |
 | 🌐 Netlify    | Deployed for the world to play     |
-
----
-
-## 🕹 Features
-
-- 2️⃣ Two-player mode
-- ✅ Win/tie detection
-- 🔁 Reset game functionality
-- 🎨 Smooth UI with subtle animations
-- 📱 Fully responsive
-
----
-
-## 📂 Project Structure
-
-📦 tic-tac-toe/
-├── 📄 index.html
-├── 🎨 style.css
-└── 🧠 script.js

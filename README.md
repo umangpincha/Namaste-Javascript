@@ -28,9 +28,9 @@ A fun and interactive **Tic Tac Toe** game built with HTML, CSS, and JavaScript.
 
 ## 📸 Screenshots
 
-| Gameplay                                                    | Game Over                                                    |
-| ----------------------------------------------------------- | ------------------------------------------------------------ |
-| ![Gameplay](https://i.imgur.com/YourGameplayScreenshot.png) | ![Game Over](https://i.imgur.com/YourGameOverScreenshot.png) |
+| Gameplay               | Game Over               |
+| ---------------------- | ----------------------- |
+| ![Gameplay](image.png) | ![Game Over](image.png) |
 
 _Replace above URLs with actual image links if you have them._
 
@@ -42,7 +42,7 @@ Want to run it locally?
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/umangpincha/Namaste-Javascript.git
    ```
 ````
 
@@ -77,9 +77,7 @@ Want to run it locally?
 
 Made with ❤️ by **Umang**
 
-- Portfolio: _coming soon_
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/umangpincha/)
 
 ---
 

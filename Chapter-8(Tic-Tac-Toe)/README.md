@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-🎯 **Play it now:** [https://umangttt.netlify.app](https://umangttt.netlify.app)
+🎯 **Play it now:** [https://umangttt.netlify.app](https://umangt3.netlify.app)
 
 ---
 

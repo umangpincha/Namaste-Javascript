@@ -1,0 +1,16 @@
+body {
+  background-color: #493c3a;
+}
+
+.myPara {
+  color: #f0f0f0;
+  font-size: 20px;
+  text-align: center;
+  background-color: green;
+}
+
+.newClass {
+  color: blue;
+  font-size: 20px;
+  text-align: center;
+}

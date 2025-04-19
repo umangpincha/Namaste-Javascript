@@ -28,9 +28,7 @@ A fun and interactive **Tic Tac Toe** game built with HTML, CSS, and JavaScript.
 
 ## 📸 Screenshots
 
-| Gameplay                                        | Game Over                                        |
-| ----------------------------------------------- | ------------------------------------------------ |
-| ![Gameplay](<Chapter-8(Tic-Tac-Toe)/image.png>) | ![Game Over](<Chapter-8(Tic-Tac-Toe)/image.png>) |
+![Alt Text](<https://github.com/umangpincha/Namaste-Javascript/blob/82067b0d8b5be67aa63b9d719d1b8b327c4f27f5/Chapter-8(Tic-Tac-Toe)/image.png>)
 
 _Replace above URLs with actual image links if you have them._
 

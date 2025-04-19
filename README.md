@@ -1,6 +1,5 @@
-# ✨ Tic Tac Toe — Classic Game with a Clean Modern Look!
+# ✨ Tic Tac Toe
 
-Welcome to **Tic Tac Toe** — a nostalgic classic reimagined in a sleek web interface. Simple to play, fun to challenge your friends, and beautiful to look at!  
 Deployed and live 👉 [umangttt.netlify.app](https://umangttt.netlify.app/)
 
 ---

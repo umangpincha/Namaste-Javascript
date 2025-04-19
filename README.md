@@ -1,5 +1,3 @@
----
-
 ````markdown
 # 🎮 Tic Tac Toe
 
@@ -46,7 +44,6 @@ Want to run it locally?
    ```bash
    git clone https://github.com/yourusername/tic-tac-toe.git
    ```
-
 ````
 
 2. Navigate into the project folder
@@ -96,4 +93,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Let me know if you want to add things like dark mode support, AI opponent, or a logo — happy to help level it up!
 ```
-````
+
+```
+
+```

@@ -7,9 +7,7 @@ Deployed and live 👉 [umangttt.netlify.app](https://umangttt.netlify.app/)
 
 ## 📸 Preview
 
-<img src="https://imgur.com/a/gO84wdh" alt="Tic Tac Toe UI" width="600"/>
-
-> _Classic 3x3 grid interface with a clean reset option and soft, inviting colors._
+<img src="https://imgur.com/Hwl3mTY" alt="Tic Tac Toe UI" width="600"/>
 
 ---
 
@@ -41,3 +39,8 @@ Deployed and live 👉 [umangttt.netlify.app](https://umangttt.netlify.app/)
 ---
 
 ## 📂 Project Structure
+
+📦 tic-tac-toe/
+├── 📄 index.html
+├── 🎨 style.css
+└── 🧠 script.js

@@ -1,95 +1,43 @@
-````markdown
-# 🎮 Tic Tac Toe
+# ✨ Tic Tac Toe — Classic Game with a Clean Modern Look!
 
-A fun and interactive **Tic Tac Toe** game built with HTML, CSS, and JavaScript. Challenge your friend or play solo to relive the classic strategy game — now on the web!
-
-🌐 **Live Demo**: [umangttt.netlify.app](https://umangttt.netlify.app/)
+Welcome to **Tic Tac Toe** — a nostalgic classic reimagined in a sleek web interface. Simple to play, fun to challenge your friends, and beautiful to look at!  
+Deployed and live 👉 [umangttt.netlify.app](https://umangttt.netlify.app/)
 
 ---
 
-## ✨ Features
+## 📸 Preview
 
-- 🆚 2 Player mode
-- 💡 Instant win/tie detection
-- 🎨 Simple, clean UI with responsive design
-- 🔄 Restart game with a single click
-- ⚡ Built for speed and smooth interaction
+<img src="https://imgur.com/a/gO84wdh" alt="Tic Tac Toe UI" width="600"/>
+
+> _Classic 3x3 grid interface with a clean reset option and soft, inviting colors._
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Live Demo
 
-- **HTML** – Markup structure
-- **CSS** – Styling and layout
-- **JavaScript** – Game logic and interactivity
-- **Netlify** – For seamless deployment
+🎯 **Play it now:** [https://umangttt.netlify.app](https://umangttt.netlify.app)
 
 ---
 
-## 📸 Screenshots
+## ⚙️ Built With
 
-![Alt Text](<https://github.com/umangpincha/Namaste-Javascript/blob/82067b0d8b5be67aa63b9d719d1b8b327c4f27f5/Chapter-8(Tic-Tac-Toe)/image.png>)
-
-_Replace above URLs with actual image links if you have them._
-
----
-
-## 🚀 Getting Started
-
-Want to run it locally?
-
-1. Clone the repo
-   ```bash
-   git clone https://github.com/umangpincha/Namaste-Javascript.git
-   ```
-````
-
-2. Navigate into the project folder
-   ```bash
-   cd tic-tac-toe
-   ```
-3. Open `index.html` in your browser
+| Tech          | Description                        |
+| ------------- | ---------------------------------- |
+| 🧱 HTML       | Structure of the game              |
+| 🎨 CSS        | Styling and layout + soft shadows  |
+| 🧠 JavaScript | Handles game logic and interaction |
+| 🌐 Netlify    | Deployed for the world to play     |
 
 ---
 
-## 📂 Folder Structure
+## 🕹 Features
 
-```
-📦 tic-tac-toe/
-├── 📄 index.html
-├── 🎨 style.css
-└── 🧠 script.js
-```
-
----
-
-## 🧠 How It Works
-
-- Players take turns marking a square.
-- The game checks after every move if there’s a winner or tie.
-- If a player wins or it's a tie, the game resets after a short delay.
+- 2️⃣ Two-player mode
+- ✅ Win/tie detection
+- 🔁 Reset game functionality
+- 🎨 Smooth UI with subtle animations
+- 📱 Fully responsive
 
 ---
 
-## 🧑‍💻 Author
-
-Made with ❤️ by **Umang**
-
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/umangpincha/)
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-```
-
----
-
-Let me know if you want to add things like dark mode support, AI opponent, or a logo — happy to help level it up!
-```
-
-```
-
-```
+## 📂 Project Structure

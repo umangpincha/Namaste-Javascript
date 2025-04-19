@@ -17,6 +17,6 @@
 | Tech          | Description                        |
 | ------------- | ---------------------------------- |
 | 🧱 HTML       | Structure of the game              |
-| 🎨 CSS        | Styling and layout + soft shadows  |
+| 🎨 CSS        | Styling and layout  |
 | 🧠 JavaScript | Handles game logic and interaction |
 | 🌐 Netlify    | Deployed for the world to play     |

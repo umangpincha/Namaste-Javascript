@@ -1,4 +1,4 @@
-# ✨ Rock Paper Scissor
+# 🪨📃✂️ Rock Paper Scissor
 
 ## 🚀 Live Demo
 
@@ -8,9 +8,7 @@
 
 ## 📸 Preview
 
-![image](<https://github.com/umangpincha/Namaste-Javascript/blob/main/Chapter-9(Rock-Paper-Scissor)/images/screenshot.png?raw=true>)
-
----
+## ![image](<https://github.com/umangpincha/Namaste-Javascript/blob/main/Chapter-9(Rock-Paper-Scissor)/images/screenshot.png?raw=true>)
 
 ## ⚙️ Built With
 
